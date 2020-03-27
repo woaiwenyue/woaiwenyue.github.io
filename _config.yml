@@ -24,8 +24,8 @@ sass:
 theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
-your_name: wemake.services
-email:wangwenyue@cumt.edu.cn
+your_name: my email
+email: wangwenyue@cumt.edu.cn
 
 navigation:
   - text: Home
