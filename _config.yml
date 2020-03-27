@@ -30,9 +30,9 @@ email: wangwenyue@cumt.edu.cn
 navigation:
   - text: Home
     url: /
-  - text: Doc
+  - text: data
     url: /docs
-  - text: Examples
+  - text: talks
     url: /examples
 
 projects:
