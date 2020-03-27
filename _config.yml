@@ -8,7 +8,7 @@
 # Site settings
 title: Wenyue Wang
 description: > # this means to ignore newlines until "baseurl:"
-  Don't always contact me!
+  Yes, it's me. But don't always contact me!
 repository: https://github.com/wemake-services/jekyll-theme-hackcss
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: http://sobolevn.github.io  # the base hostname & protocol for your site
