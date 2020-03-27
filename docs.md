@@ -7,7 +7,7 @@ permalink: docs
 
 ## Configuration
 
-This theme can be configured by modifying the `_config.yml` file.
+e can be configured by modifying the `_config.yml` file.
 
 ### Theme settings
 
