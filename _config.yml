@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: jekyll-theme-hackcss
+title: It's me, Wenyue!
 description: > # this means to ignore newlines until "baseurl:"
-  A minimalistic theme for Jekyll, based on hack.css
+  I'm a chinese
 repository: https://github.com/wemake-services/jekyll-theme-hackcss
 baseurl: ""  # the subpath of your site, e.g. /blog
-url: http://sobolevn.github.io  # the base hostname & protocol for your site
+url: http://woaiwenyue.github.io  # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -24,15 +24,15 @@ sass:
 theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
-your_name: wemake.services
-email: mail@sobolevn.me
+your_name: my email:
+email: wangwenyue@cumt.edu.cn
 
 navigation:
   - text: Home
     url: /
-  - text: Docs
+  - text: Nothing
     url: /docs
-  - text: Examples
+  - text: Nothing
     url: /examples
 
 projects:
