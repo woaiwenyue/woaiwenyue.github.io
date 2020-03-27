@@ -24,7 +24,7 @@ sass:
 theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
-your_name: my email
+your_name: my email:
 email: wangwenyue@cumt.edu.cn
 
 navigation:
