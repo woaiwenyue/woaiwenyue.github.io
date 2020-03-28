@@ -32,23 +32,23 @@ navigation:
     url: /
   - text: data
     url: /docs
-  - text: talks
+  - text: blog
     url: /examples
 
-projects:
-  - name: nothing
-    description: 
+#projects:
+ # - name: nothing
+  #  description: 
     #link: https://sobolevn.github.io/git-secret
     #image: https://github.com/sobolevn/git-secret/blob/7c9ae0b1853d4c15549027524121b9e40219fe47/images/git-secret-sm.png?raw=true
-  - name: nothing
-    description:
+ # - name: nothing
+ #   description:
     #link: https://github.com/sobolevn/awesome-cryptography
     #image: https://pbs.twimg.com/profile_images/751426570607271937/vGxpniun_400x400.jpg
-  - name: nothing
-    description: 
+#  - name: nothing
+#    description: 
     #link: https://github.com/sobolevn/ecto_autoslug_field
-  - name: nothing
-    description: 
+ # - name: nothing
+ #   description: 
     #link: https://github.com/sobolevn/django-split-settings
 
 social:
