@@ -32,8 +32,8 @@ navigation:
     url: /
   - text: data
     url: /docs
-  - text: blog
-    url: /examples
+#  - text: blog
+#    url: /examples
 
 #projects:
  # - name: nothing
